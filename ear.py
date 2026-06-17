@@ -171,7 +171,7 @@ if citizen_id:
             age = st.number_input("อายุ", min_value=1, max_value=120, value=20, step=1)
 
             regular_menses_or_menopause = st.checkbox(
-                "ประจำเดือนมาปกติ หรือหมดประจำเดือนแล้ว"
+                "ประจำเดือนมาปกติ หรือไม่เกี่ยวข้อง"
             )
             no_ear_inflammation = st.checkbox("ไม่มีหูอักเสบ / ไม่มีแผลที่ใบหู")
         else:
