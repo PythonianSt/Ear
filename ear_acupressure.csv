@@ -1,0 +1,2 @@
+﻿timestamp_bkk,citizen_id,visit_type,sex,age,weight_kg,height_cm,bmi,bmi_color,seed_points_count,regular_menses_or_menopause,no_ear_inflammation,appetite_score,sweet_craving_score,salty_craving_score,exercise_score,waist_cm
+2026-06-17 07:15:13,3100800546087,first_visit,ชาย,65,68.0,170.0,23.53,green,4,True,True,8,7,3,9,90.0
